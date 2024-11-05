@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Sony.xsl"?>
+
 <Sony>
     <item>
         <titulo>Televisor Sony Bravia 55 pulgadas 4K</titulo>
