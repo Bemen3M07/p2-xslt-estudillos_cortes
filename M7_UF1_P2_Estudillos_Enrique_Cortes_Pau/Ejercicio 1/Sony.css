@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+
+  /* Banner y pie de página */
+  .banner, .footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+  }
+
+  /* Contenedor de los items */
+  .content {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  /* Estilo de cada item */
+  .item {
+    display: flex;
+    width: 80%;
+    background-color: #fff;
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  /* Imagen a la izquierda */
+  .item img {
+    width: 120px;
+    height: auto;
+    margin-right: 20px;
+    border-radius: 4px;
+  }
+
+  /* Título y descripción a la derecha */
+  .item-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .item-title {
+    font-size: 1.2em;
+    color: #333;
+    margin: 0 0 10px 0;
+  }
+
+  .item-description {
+    color: #666;
+  }
