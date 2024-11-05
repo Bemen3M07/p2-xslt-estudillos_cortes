@@ -7,7 +7,65 @@
     <html>
       <head>
         <title>Noticias de Productos Sony</title>
-        <link rel="stylesheet" type="text/css" href="Sony.css">
+        <style>
+            *{
+              margin: 0;
+              padding: 0;
+            }  
+            body {
+              font-family: Arial, sans-serif;
+              margin: 0;
+              padding: 0;
+              background-color: #fff;
+            }
+
+            .banner, .footer {
+              background-color: #333;
+              color: #fff;
+              text-align: center;
+              padding: 20px 0;
+            }
+
+            .content {
+              padding: 20px;
+              display: flex;
+              flex-direction: column;
+              align-items: center;
+            }
+
+            .item {
+              display: flex;
+              width: 80%;
+              background-color: #fff;
+              margin-bottom: 20px;
+              padding: 15px;
+              border-radius: 8px;
+              box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            }
+
+            .item img {
+              width: 120px;
+              height: auto;
+              margin-right: 20px;
+              border-radius: 4px;
+            }
+
+            .item-content {
+              display: flex;
+              flex-direction: column;
+              justify-content: center;
+            }
+
+            .item-title {
+              font-size: 1.2em;
+              color: #333;
+              margin: 0 0 10px 0;
+            }
+
+            .item-description {
+              color: #666;
+            }
+        </style>
       </head>
       
       <body>
@@ -39,7 +97,7 @@
         
         <!-- Footer -->
         <div class="footer">
-          <p>&copy; 2024 Sony Corporation - Todos los derechos reservados</p>
+          <p>2024 Sony Corporation - Todos los derechos reservados</p>
         </div>
       </body>
     </html>
