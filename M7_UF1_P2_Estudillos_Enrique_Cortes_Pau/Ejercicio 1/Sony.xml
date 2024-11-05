@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sony>
+    <item>
+        <titulo>Televisor Sony Bravia 55 pulgadas 4K</titulo>
+        <imagenes>imagen1.jpg</imagenes>
+        <descripcion>Televisor de alta definición 4K con tecnología HDR, ideal para cine en casa.</descripcion>
+    </item>
+    <item>
+        <titulo>Cámara Sony Alpha a7 III</titulo>
+        <imagenes>imagen2.jpg</imagenes>
+        <descripcion>Cámara de fotograma completo sin espejo, con capacidad de grabación en 4K.</descripcion>
+    </item>
+    <item>
+        <titulo>Audífonos Sony WH-1000XM4</titulo>
+        <imagenes>imagen3.jpg</imagenes>
+        <descripcion>Audífonos inalámbricos con cancelación activa de ruido y alta calidad de sonido.</descripcion>
+    </item>
+    <item>
+        <titulo>Consola Sony PlayStation 5</titulo>
+        <imagenes>imagen4.jpg</imagenes>
+        <descripcion>Consola de videojuegos de última generación con gráficos impresionantes y velocidad.</descripcion>
+    </item>
+    <item>
+        <titulo>Proyector Sony VPL-VW325ES</titulo>
+        <imagenes>imagen5.jpg</imagenes>
+        <descripcion>Proyector de cine en casa con resolución 4K nativa y excelente contraste.</descripcion>
+    </item>
+    <item>
+        <titulo>Bocina inalámbrica Sony SRS-XB43</titulo>
+        <imagenes>imagen6.jpg</imagenes>
+        <descripcion>Bocina portátil con graves profundos y resistencia al agua, ideal para exteriores.</descripcion>
+    </item>
+    <item>
+        <titulo>Smartphone Sony Xperia 5 III</titulo>
+        <imagenes>imagen7.jpg</imagenes>
+        <descripcion>Teléfono inteligente con cámara de calidad profesional y pantalla OLED de 6.1 pulgadas.</descripcion>
+    </item>
+    <item>
+        <titulo>Grabadora Sony ICD-PX470</titulo>
+        <imagenes>imagen8.jpg</imagenes>
+        <descripcion>Grabadora de voz digital con micrófono estéreo y almacenamiento expandible.</descripcion>
+    </item>
+</Sony>
