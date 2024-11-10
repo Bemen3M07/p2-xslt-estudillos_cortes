@@ -72,7 +72,7 @@
         <!-- Banner -->
         <div class="banner">
           <h1>Noticias de Productos Sony</h1>
-          <button type="button" onclick="window.location.href='sony.xml'">Regresar</button>
+          <button type="button" onclick="window.location.href='Formulario.xml'">Formulario</button>
         </div>
         
         <!-- Contenido principal -->

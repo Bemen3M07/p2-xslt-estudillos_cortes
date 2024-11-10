@@ -82,8 +82,8 @@
         <!-- Banner de encabezado de la página -->
         <div class="banner">
           <h1>Noticias de Productos Sony</h1>
-          <!-- Botón que permite regresar a la página XML -->
-          <button type="button" onclick="window.location.href='sony.xml'">Regresar</button>
+          <!-- Boton para ir al formulario -->
+          <button type="button" onclick="window.location.href='Formulario.xml'">Formulario</button>
         </div>
         
         <!-- Contenedor principal de los productos -->
