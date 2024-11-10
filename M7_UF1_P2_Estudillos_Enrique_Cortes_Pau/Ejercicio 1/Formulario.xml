@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Formulario.xslt"?>
+<formulario>
+    <titulo>Formulario de Registro</titulo>
+    <campo>
+        <etiqueta>Nombre</etiqueta>
+        <tipo>text</tipo>
+        <nombre>nombre</nombre>
+    </campo>
+    <campo>
+        <etiqueta>Email</etiqueta>
+        <tipo>email</tipo>
+        <nombre>email</nombre>
+    </campo>
+    <campo>
+        <etiqueta>Contraseña</etiqueta>
+        <tipo>password</tipo>
+        <nombre>contrasena</nombre>
+    </campo>
+    <boton>Enviar</boton>
+    <boton>Regresar</boton>
+</formulario>
